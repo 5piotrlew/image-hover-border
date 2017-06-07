@@ -1,0 +1,43 @@
+* {
+    display: block;
+}
+
+body {
+    width: 740px;
+    margin: 20px auto;
+    box-sizing: border-box; 
+    padding-left: 20px;
+}
+
+#kontener {
+    background-image: url(../img/4-jezioro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 720px;
+    height: 260px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+#gora {
+    top: 15px; 
+    left: 437px;
+    position: absolute;
+    background-color: red;
+    height: 150px;
+    width: 740px;
+    margin-top: 0;
+    
+}
+
+#dol {
+    top: 155px; 
+    left: 437px;
+    position: absolute;
+    background-color: black;
+    height: 150px;
+    width: 740px;
+    
+    
+}
